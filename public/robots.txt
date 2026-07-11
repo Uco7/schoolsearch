@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://myschoolsearch.pages.dev/sitemap.xml
+Sitemap:https://schoolsearch-44dm.onrender.com/sitemap.xml

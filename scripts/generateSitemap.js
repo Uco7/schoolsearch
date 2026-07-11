@@ -237,7 +237,7 @@ const sitemap = {
   urlset: {
     $: { xmlns: 'http://www.sitemaps.org/schemas/sitemap/0.9' },
     url: routes.map(route => ({
-      loc: `https://myschoolsearch.pages.dev${route}`,
+      loc: `https://schoolsearch-44dm.onrender.com${route}`,
       lastmod: today,
       priority: priorityFor(route),
     }))
